@@ -1,0 +1,23 @@
+import turtle
+
+t = turtle.Turtle()
+t.speed(100)
+while True:
+    t.color("red")
+    t.circle(20)
+    t.forward(10)
+    t.color("orange")
+    t.circle(20)
+    t.forward(10)
+    t.color("yellow")
+    t.circle(20)
+    t.forward(10)
+    t.color("green")
+    t.circle(20)
+    t.forward(10)
+    t.color("blue")
+    t.circle(20)
+    t.forward(10)
+    t.color("purple")
+    t.circle(20)
+    t.forward(10)
